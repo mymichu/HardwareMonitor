@@ -1,0 +1,19 @@
+{
+    "hosts": {
+        "timeSeries":{
+            "database":{
+                "address":     "http://192.168.56.101:8086",
+		        "username":     "telegraf",
+                "password":     "secretpassword",
+                "enable":       true,
+                "name":         "db0"
+            },
+            "logFile":{
+                "path":"timeDB.txt",
+                "enable":true,
+                "maxSizeByte":1000
+            }
+
+        }
+    }
+}

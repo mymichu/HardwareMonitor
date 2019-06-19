@@ -1,0 +1,15 @@
+cpu_state,device_id=T_1 usage=8.000000,temp=88.0 1560602285177562100
+cpu_state,device_id=T_1 usage=84.000000,temp=5.0 1560602287184172700
+cpu_state,device_id=T_1 usage=8.000000,temp=31.0 1560602289189646200
+cpu_state,device_id=T_1 usage=42.000000,temp=54.0 1560602309203938700
+cpu_state,device_id=T_1 usage=45.000000,temp=30.0 1560602311217415400
+cpu_state,device_id=T_1 usage=69.000000,temp=51.0 1560602313240682900
+cpu_state,device_id=T_1 usage=16.000000,temp=8.0 1560602315255761100
+cpu_state,device_id=T_1 usage=72.000000,temp=27.0 1560602317271674300
+cpu_state,device_id=T_1 usage=21.000000,temp=44.0 1560602319288518500
+cpu_state,device_id=T_1 usage=23.000000,temp=10.0 1560602321303964100
+cpu_state,device_id=T_1 usage=49.000000,temp=46.0 1560602323306377700
+cpu_state,device_id=T_1 usage=52.000000,temp=25.0 1560602325308060600
+cpu_state,device_id=T_1 usage=4.000000,temp=94.0 1560602327319805100
+cpu_state,device_id=T_1 usage=28.000000,temp=88.0 1560602329337256400
+cpu_state,device_id=T_1 usage=79.000000,temp=1.0 1560602331344465700
