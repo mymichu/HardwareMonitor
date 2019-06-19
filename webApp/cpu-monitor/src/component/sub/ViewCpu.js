@@ -19,7 +19,7 @@ class ViewCpu extends Component {
   }
 
   componentDidMount(){
-    this.interval = setInterval(() => fetch('http://localhost:82/api/v1/cpu/state/current')
+    this.interval = setInterval(() => fetch('http://192.168.10.1:82/api/v1/cpu/state/current')
     .then(res => res.json())
     .then(json => {
       this.setState({
